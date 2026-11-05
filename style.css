@@ -45,7 +45,7 @@ td {
     border: 1px solid #777;
 }
 
-/* Merah: kolom 4-8, baris 1-2 */
+/* MERAH */
 .merah {
     background: red;
     left: 30%;
@@ -54,7 +54,7 @@ td {
     height: 20%;
 }
 
-/* Kuning: kolom 1-2, baris 2-5 */
+/* KUNING */
 .kuning {
     background: yellow;
     left: 0;
@@ -63,7 +63,7 @@ td {
     height: 40%;
 }
 
-/* Aqua: kolom 4-7, baris 6-7 */
+/* AQUA */
 .aqua {
     background: aqua;
     left: 30%;
@@ -72,7 +72,7 @@ td {
     height: 20%;
 }
 
-/* Hijau: kolom 9, baris 4-7 */
+/* HIJAU */
 .hijau {
     background: green;
     color: white;
